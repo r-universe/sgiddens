@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "DPpack"]
 	path = DPpack
-	url = https://github.com/cran/DPpack
+	url = https://github.com/sgiddens/dppack
 	shallow = true
 	registered = true
